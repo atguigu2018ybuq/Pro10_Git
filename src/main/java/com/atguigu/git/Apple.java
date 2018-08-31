@@ -2,6 +2,6 @@ package com.atguigu.git;
 
 public class Apple {
 	
-	//comment
+	//comment edit by right
 
 }
